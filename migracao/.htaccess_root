@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteBase /policom_b2b/
+    RewriteRule  ^$ public/	[L]
+    RewriteRule  (.*) public/$1	[L]
+</IfModule>

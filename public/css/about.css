@@ -1,0 +1,53 @@
+.about-title
+{
+    color: rgb(6, 49, 70);
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 3.6rem;
+}
+
+fieldset
+{
+    border: 0 !important;
+    margin-top: 2rem;
+}
+
+fieldset legend
+{
+    border: 0 !important;
+    padding: 1rem;
+}
+
+fieldset + fieldset legend
+{
+    font-size: 3.1rem;
+}
+
+fieldset ul
+{
+    padding: 0 2rem;
+}
+
+fieldset ul li
+{
+    list-style: none;
+    text-indent: 2rem;
+
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8rem;
+
+    text-align: justify;
+}
+
+fieldset ul li strong
+{
+    font-weight: 600;
+    color: rgb(6, 49, 70);
+}
+
+fieldset ul li + li
+{
+    margin-top: 2rem;
+}

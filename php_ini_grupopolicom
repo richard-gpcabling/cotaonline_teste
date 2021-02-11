@@ -1,0 +1,2 @@
+extension_dir = /home/grupopolicom/php72-exts
+extension = phalcon.so

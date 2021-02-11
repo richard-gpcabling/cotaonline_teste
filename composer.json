@@ -1,0 +1,11 @@
+{
+    "name": "bruno/cotaonline",
+    "require": {
+        "phalcon/devtools": "dev-master",
+        "mpdf/mpdf": "^8.0",
+        "larapack/dd": "^1.1",
+        "setasign/fpdf": "^1.8",
+        "ext-gd": "^7.2",
+        "google/recaptcha": "^1.2"
+    }
+}

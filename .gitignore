@@ -1,0 +1,32 @@
+vendor
+vendor/*
+app/config/config.ini
+docker/mysql/
+data/policom_b2b.sql
+public/produto_imagem/*
+public/produto_documento/*
+php.ini
+cache/volt/*.php
+.idea
+public/produto_imagem/16915/16915 t006_r21717_v3 (1).jpg
+public/produto_imagem/16921/16921 t006_r22802_v3.jpg
+public/produto_imagem/48425/48425.jpg
+public/produto_imagem/63032/63032.jpg
+public/produto_imagem/63033/63033_01.jpg
+public/produto_imagem/63034/63034.jpg
+public/produto_imagem/63035/63035.JPG
+public/produto_imagem/85118/85118_01.jpg
+public/produto_imagem/85121/85121_01.jpg
+public/produto_imagem/85128/85128 2.jpg
+public/produto_imagem/85130/85128 85129 85130 (1).jpg
+public/produto_imagem/93206/93206.png
+public/produto_imagem/95211/95211.jpg
+public/produto_imagem/95212/95212.jpg
+public/produto_imagem/95213/1.jpg
+public/produto_imagem/95216/95216_01.jpg
+.VSCodeCounter
+.VSCodeCounter/*
+.vscode
+.vscode/*
+.phalcon
+.phalcon/*

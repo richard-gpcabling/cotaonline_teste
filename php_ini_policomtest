@@ -1,0 +1,2 @@
+extension_dir = /home/policomtest/php72-exts
+extension = phalcon.so
